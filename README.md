@@ -1,4 +1,4 @@
-# HR_Analysis project:
+## HR_Analysis project:
 
 The HR Analysis project revolves around the careful examination and interpretation of data related to an organization's human resources. The project is grounded in the belief that data-driven insights shedding light on various aspects of the workforce. The project employs SQL queries to clean, preprocess, and analyze data from an HR database.
 
